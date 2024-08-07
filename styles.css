@@ -65,7 +65,6 @@ h1 {
     line-height: 1.6; /* Increase line height for better readability */
     text-align: center; /* Center the text */
     background-color: rgba(255, 255, 255, 0.8); /* Transparent, lighter version of the background color */
-    border: 2px solid rgba(0, 0, 0, 0.2); /* Add a light border around the box */
     border-radius: 8px; /* Round the corners of the box */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow around the box */
 }
