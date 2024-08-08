@@ -17,10 +17,10 @@ grid_layout_project
 
 ## Project Setup Steps
 
-- [ ] **Create the Project Folder:**
-  - [ ] Create a main project folder named `FlexGridsPetEmporium`.
+- [x ] **Create the Project Folder:**
+  - [ x] Create a main project folder named `FlexGridsPetEmporium`.
 
-- [ ] **Create HTML and CSS Files:**
+- [x ] **Create HTML and CSS Files:**
   - [ ] Create a new HTML file named `index.html`.
   - [ ] Create a new CSS file named `styles.css`.
 
